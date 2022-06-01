@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eddycat-1
 - 👀 I’m interested in three js!
 - 🌱 I’m currently learning three js!
-- 💞️ I’m looking to collaborate on projects involving three js!
-- 📫 How to reach me: edward.a.j.cathcart@gmail.cpm
+- 💞️ I’m looking to collaborate on projects involving... you guessed it! three js!
+- 📫 How to reach me: edward.a.j.cathcart@gmail.com
